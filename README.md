@@ -3,7 +3,7 @@
 A 5-page personal portfolio website (Home, Personal Skills, Hobbies, Image Gallery, Contact Me), built with plain HTML5 and an external CSS stylesheet, laid out using `float` and `clear`.
 
 ## Live Site
-https://YOUR-GITHUB-USERNAME.github.io/portfolio/
+https://msomaan-khan.github.io/portfolio/
 
 ## Structure
 ```
